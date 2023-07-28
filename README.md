@@ -9,6 +9,8 @@
 3. count average characters per description
 4. count maximum words in descriptions
 5. count minimum price in descriptions
+
+
 (მოგიწევთ გაარკვიოთ რა არის object-ი)
 
 ```javascript
